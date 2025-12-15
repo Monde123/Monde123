@@ -1,4 +1,4 @@
-# 👋 Bonjour ! Je suis [Moise KOUDANKO]
+# 👋 Bonjour ! Je suis Moise KOUDANKO
 
 ###  | Développeur [Flutter Mobile | React Native]
 
@@ -72,7 +72,7 @@ Une sélection de mes réalisations qui démontrent mes compétences en architec
 
 ## 🎓 Formation & Éducation
 
-* **[Nom du Diplôme]** — [Nom de l'établissement, ex: Université de Montréal], [Année de Fin]
+* **Mathématiques Informatiques et Apllications** —  Université d'Abomey-Calavi, 
 * **[Certification Importante, ex: Google Associate Android Developer]** — [Organisme]
 
 ---
@@ -82,8 +82,8 @@ Une sélection de mes réalisations qui démontrent mes compétences en architec
 Ces statistiques reflètent mon activité et ma passion pour le développement.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[Monde123]&show_icons=true&theme=vue-dark&hide_title=true&hide_border=true&locale=fr" alt="Votre Stats GitHub">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[Monde123]&layout=compact&langs_count=5&theme=vue-dark&hide_title=true&hide_border=true&locale=fr" alt="Vos Langages les Plus Utilisés">
+  <img src="https://github-readme-stats.vercel.app/api?username=Monde123&show_icons=true&theme=vue-dark&hide_title=true&hide_border=true&locale=fr" alt="Votre Stats GitHub">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monde123&layout=compact&langs_count=5&theme=vue-dark&hide_title=true&hide_border=true&locale=fr" alt="Vos Langages les Plus Utilisés">
 </p>
 
 ---
