@@ -1,90 +1,96 @@
-## Hi there 👋
-# 👋 Bonjour ! Je suis [Votre Nom Complet]
+# 👋 Bonjour ! Je suis [Moise KOUDANKO]
 
-### Ingénieur | Développeur [Votre Domaine Spécialisé, ex: Full-Stack / Mobile (Flutter)]
+###  | Développeur [Flutter Mobile | React Native]
 
-Je suis un développeur passionné par [mentionnez une technologie clé ou un objectif, ex: la création d'applications performantes et la résolution de problèmes complexes]. Ce dépôt est ma vitrine professionnelle, regroupant mes projets les plus significatifs et mes compétences techniques.
+Je suis passionné par la conception de solutions élégantes et performantes. Ce profil GitHub est ma vitrine, où je partage mon expertise, mes projets et mes contributions open source.
 
 ---
 
-## 🎯 En Bref : Profil & Contact
+## 🎯 En Bref : Contact & Liens
 
 | Catégorie | Détails |
 | :--- | :--- |
-| **Rôle Actuel** | [Votre Rôle actuel, ex: Développeur Flutter Junior] |
-| **Localisation** | [Votre Ville, Pays, ex: Paris, France] |
-| **Email** | [votre.email@exemple.com] |
-| **LinkedIn** | [Lien vers votre profil LinkedIn] |
-| **Portfolio / Site Web** | [Lien vers votre portfolio ou site personnel (si existant)] |
+| 🧑‍💻 **Rôle** | [Votre Rôle actuel, ex: Développeur Flutter] |
+| 📍 **Localisation** | [Cotonou, Bénin,] |
+| ✉️ **Email** | [koudankomoise@gmail.com] |
+| 💼 **LinkedIn** | [.................] |
+| 🌐 **Portfolio/Web** | [Lien vers votre portfolio avec animations (si existant)] |
 
 ---
 
-## 🛠️ Mes Compétences Techniques (Le "Hard Skills")
+## 🛠️ Mes Compétences Techniques (Hard Skills)
 
-Voici les technologies que je maîtrise et utilise régulièrement.
+Je me concentre sur la création de produits complets, de l'interface utilisateur à la base de données.
 
-### Langages de Programmation
-* **Dart/Flutter** (Expertise principale)
-* **Python** (Scripts, Backend léger)
-* **JavaScript / TypeScript** (Développement Front-end/Node.js)
+### 💻 Langages & Frameworks Principaux
+| Domaine | Compétences |
+| :--- | :--- |
+| **Mobile/Front-end** | **Dart/Flutter**, JavaScript/TypeScript, Dart/ Flutter|
+|
+| **Bases de Données** | Firebase (Firestore, Auth), |
 
-### Frameworks & Librairies
-* **Flutter** (Développement Mobile/Web/Desktop)
-* **[Un autre Framework important, ex: React, Django, Spring]**
-* **[Librairie spécifique, ex: Bloc, Provider, Riverpod pour Flutter]**
+### ⚙️ Outils & DevOps
+| Outil | Maîtrise |
+| :--- | :--- |
+| **Versionning** | Git, GitHub, GitLab |
+|
+| |
+| **Design** | Figma, |
 
-### Bases de Données & Backend
-* **Firebase (Firestore, Authentication, Storage)**
-* **SQL (PostgreSQL, MySQL)**
-* **NoSQL (MongoDB)**
+### Badges de Compétences (Visuel)
 
-### Outils & DevOps
-* **Git & GitHub** (Gestion de versions)
-* **Docker** (Bases, Conteneurisation)
-* **[Un outil CI/CD, ex: GitHub Actions, Jenkins]**
-
----
-
-## 💡 Projets Sélectionnés (Mon Expérience Concrète)
-
-Ces projets illustrent ma capacité à [mentionnez votre objectif, ex: concevoir des solutions robustes et déployables].
-
-### 1. [Nom du Projet Principal, ex: DYS Project]
-* **Description :** [Une phrase concise sur ce que fait le projet, ex: Application mobile de gestion des tâches intégrant Firebase Auth et Firestore.]
-* **Technologies :** Flutter, Dart, Firebase, [Autre outil].
-* **Statut :** [En cours / Déployé / Terminé]
-* [Lien vers le dépôt GitHub du projet] | [Lien vers l'application / démo (si disponible)]
-
-### 2. [Nom du Projet Secondaire, ex: API de Gestion]
-* **Description :** [Une phrase concise sur le backend ou l'outil, ex: API RESTful pour la gestion des utilisateurs et des stocks.]
-* **Technologies :** Python, Django REST Framework, PostgreSQL.
-* [Lien vers le dépôt GitHub du projet]
-
-### 3. [Nom du Projet Personnel/Challenge]
-* **Description :** [Ex: Refonte complète d'un site web existant pour améliorer l'accessibilité.]
-* **Technologies :** HTML, CSS (Sass), JavaScript Vanilla.
-* [Lien vers le dépôt GitHub du projet]
+<p align="left">
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Badge Flutter"> 
+    <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Badge Dart">
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Badge Firebase">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Badge Python">
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="Badge PostgreSQL">
+</p>
 
 ---
 
-## 🌱 Formation & Certification
+## 💡 Projets Clés (Mon Expérience)
 
-* **[Nom du Diplôme le plus élevé]** — [Nom de l'établissement], [Année de fin, ex: 2024]
-    * [Mentionnez un point clé, ex: Projet de fin d'études sur l'IA.]
-* **[Nom d'une Certification/Cours Important, ex: Certification AWS Cloud Practitioner]** — [Organisme], [Année]
+Une sélection de mes réalisations qui démontrent mes compétences en architecture et développement.
+
+### 1. 📱 [Nom du Projet Principal, ex: DYS Project] (Flutter)
+* **Description :** [Une phrase accrocheuse décrivant le projet, ex: Application de productivité multiplateforme avec authentification biométrique et synchronisation cloud.]
+* **Fonctionnalités :** Gestion des tâches, notifications push, [Autre].
+* **Technologies :** Dart, Flutter, Firebase Firestore, Provider/Riverpod.
+* **Lien :** [Lien vers le dépôt du projet]
+
+### 2. 🌐 [Nom du Projet Web/Backend]
+* **Description :** [Une phrase décrivant l'API ou le service web, ex: Plateforme e-commerce simplifiée avec gestion des commandes et des utilisateurs.]
+* **Technologies :** Python (Django/Flask), [Base de données], HTML/CSS.
+* **Lien :** [Lien vers le dépôt du projet]
+
+### 3. [Nom d'un Projet Open Source ou Contrib.]
+* **Description :** [Contribution à une librairie, ou un petit outil personnel.]
+* **Lien :** [Lien vers le dépôt du projet]
 
 ---
 
-## 📈 Statistiques GitHub (Généré automatiquement)
+## 🎓 Formation & Éducation
 
-[Intégrez ici des widgets pour rendre le README plus dynamique et visuel.]
+* **[Nom du Diplôme]** — [Nom de l'établissement, ex: Université de Montréal], [Année de Fin]
+* **[Certification Importante, ex: Google Associate Android Developer]** — [Organisme]
 
-```markdown
-### Stats
+---
 
-[![Votre Stats GitHub](https://github-readme-stats.vercel.app/api?username=[VOTRE_NOM_UTILISATEUR]&show_icons=true&theme=vue-dark&hide_title=true&hide_border=true&locale=fr)](https://github.com/[VOTRE_NOM_UTILISATEUR])
+## 📊 Statistiques GitHub (Dynamique)
 
-[![Vos Langages les Plus Utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=[VOTRE_NOM_UTILISATEUR]&layout=compact&langs_count=5&theme=vue-dark&hide_title=true&hide_border=true&locale=fr)](https://github.com/[VOTRE_NOM_UTILISATEUR])
+Ces statistiques reflètent mon activité et ma passion pour le développement.
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=[Monde123]&show_icons=true&theme=vue-dark&hide_title=true&hide_border=true&locale=fr" alt="Votre Stats GitHub">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[Monde123]&layout=compact&langs_count=5&theme=vue-dark&hide_title=true&hide_border=true&locale=fr" alt="Vos Langages les Plus Utilisés">
+</p>
+
+---
+
+## 🤝 Collaboration & Contact
+
+Je suis toujours ouvert à l'apprentissage et aux nouvelles opportunités. N'hésitez pas à me contacter si vous avez un projet stimulant ou une question technique !
 <!--
 **Monde123/Monde123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
