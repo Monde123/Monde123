@@ -10,7 +10,7 @@ Je suis passionné par la conception de solutions élégantes et performantes.
 
 | Catégorie | Détails |
 | :--- | :--- |
-| 🧑‍💻 **Rôle** | Developpeur chez DeafSync(stage)  | Développement mobile avec React Native & Flutter
+| 🧑‍💻 **Rôle** | Developpeur chez DeafSync | Développement mobile avec React Native & Flutter
 | 📍 **Localisation** | Cotonou, Bénin, |
 | ✉️ **Email** | koudankomoise@gmail.com |
 | 💼 **LinkedIn** | www.linkedin.com/in/moïse-koudanko-🛡️-259a7b26b |
