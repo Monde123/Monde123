@@ -1,12 +1,12 @@
-# 👋 Salut, moi c'est Moïse KOUDANKO
+# 👋 Hi, I'm Moïse KOUDANKO
 
 ### Mobile Software Engineer
 
 📱 **Flutter • React Native • Firebase**
 
-Je conçois et développe des applications mobiles modernes, performantes et centrées sur l'expérience utilisateur.
+I design and build modern, high-performance mobile applications centered around user experience.
 
-Actuellement développeur chez **DeafSync**, je me spécialise dans le développement mobile et j'élargis progressivement mon expertise vers le **Data Engineering**.
+Currently a developer at **DeafSync**, I specialize in mobile development while progressively expanding my expertise into **Data Engineering** and **Machine Learning**.
 
 ---
 
@@ -21,7 +21,7 @@ Actuellement développeur chez **DeafSync**, je me spécialise dans le développ
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
-### Stack principale
+### Core Stack
 
 - 📱 Flutter
 - ⚛️ React Native
@@ -33,18 +33,18 @@ Actuellement développeur chez **DeafSync**, je me spécialise dans le développ
 
 ---
 
-## 🚀 Projets
+## 🚀 Projects
 
 ### 🎓 E-Learning
 
-Une plateforme mobile d'apprentissage inspirée de Udemy, proposant deux espaces distincts (enseignant et apprenant).
+A mobile e-learning platform inspired by Udemy, featuring two distinct spaces (teacher and learner).
 
-**Fonctionnalités**
+**Features**
 
-- Authentification
-- Gestion des cours
-- Paiement simulé
-- Notifications Push
+- Authentication
+- Course management
+- Simulated payment
+- Push notifications
 
 **Stack**
 
@@ -54,13 +54,13 @@ Une plateforme mobile d'apprentissage inspirée de Udemy, proposant deux espaces
 
 ### 🩺 MediClic
 
-Application de santé numérique visant à rapprocher les patients des professionnels de santé.
+A digital health application aimed at bridging the gap between patients and healthcare professionals.
 
-**Fonctionnalités**
+**Features**
 
-- Prise de rendez-vous
-- Dossier médical numérique
-- Localisation des centres de santé
+- Appointment scheduling
+- Digital medical records
+- Health center locator
 - Notifications
 
 **Stack**
@@ -71,15 +71,15 @@ Application de santé numérique visant à rapprocher les patients des professio
 
 ### 🏫 EcoleConnect
 
-Plateforme de gestion scolaire permettant le suivi complet des établissements et des apprenants.
+A school management platform enabling comprehensive tracking of educational institutions and students.
 
-**Fonctionnalités**
+**Features**
 
-- Gestion des élèves
-- Présences
-- Notes
-- Paiement des frais de scolarité
-- Génération des bulletins
+- Student management
+- Attendance tracking
+- Grades management
+- Tuition fee payment
+- Report card generation
 
 **Stack**
 
@@ -87,20 +87,20 @@ Plateforme de gestion scolaire permettant le suivi complet des établissements e
 
 ---
 
-### 🚧 Me *(En développement)*
+### 🚧 Me *(In Development)*
 
-> Une nouvelle façon de communiquer.
+> A new way to communicate.
 
-**Me** est une application mobile pensée pour rendre les échanges plus simples, plus naturels et plus humains.
+**Me** is a mobile application designed to make interactions simpler, more natural, and more human.
 
 ---
 
-## 🌱 En ce moment
+## 🌱 Currently
 
-- 📚 Série **Flutter for Beginners**
-- 📊 Apprentissage du **Data Engineering**
-- 🚀 Développement de **Me**
-- 💡 Création de projets open source
+- 📚 Working on the **Flutter for Beginners** series
+- 📊 Learning **Data Engineering**
+- 🚀 Developing **Me**
+- 💡 Creating open-source projects
 
 ---
 
@@ -119,14 +119,13 @@ Plateforme de gestion scolaire permettant le suivi complet des établissements e
     <a href="https://github.com/Monde123/beautiful-github-homepage">
         <picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=Monde123&hide_title=false&layout=compact&theme=gotham&count_private=true" /></picture>
     </a>
-    <!-- <a href="https://github.com/Monde123?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=ishandutta2007&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="48%" alt="@Monde123's github-readme-stats"/></a> -->
-    <!-- <a href="https://github.com/Monde123?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=Monde123&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="48%" alt="@Monde123's github-readme-streak-stats" /></a> -->
 </p>
+
 ---
 
-## 📫 Me contacter
+## 📫 Get in Touch
 
-📍 **Cotonou, Bénin**
+📍 **Cotonou, Benin**
 
 📧 **koudankomoise@gmail.com**
 
@@ -135,4 +134,4 @@ https://www.linkedin.com/in/moïse-koudanko-259a7b26b
 
 ---
 
-> *"Transformer des idées en applications utiles, élégantes et performantes."*
+> *"Transforming ideas into useful, elegant, and high-performing applications."*
