@@ -104,14 +104,24 @@ Plateforme de gestion scolaire permettant le suivi complet des établissements e
 
 ---
 
-## 📈 GitHub Stats
+<h1>📊 Github Stats and Activity</h1>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Monde123&show_icons=true&theme=vue-dark&hide_border=true"/>
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monde123&layout=compact&theme=vue-dark&hide_border=true"/>
+    <a href="https://github.com/Monde123/beautiful-github-homepage">
+        <picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api?username=Monde123&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" alt="Monde123" /></picture>
+    </a>
+    <a href="https://github.com/Monde123?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=Monde123&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="48%" alt="@Monde123's github-readme-streak-stats" /></a>
 </p>
 
+<br>
+
+<p align="center">
+    <a href="https://github.com/Monde123/beautiful-github-homepage">
+        <picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=Monde123&hide_title=false&layout=compact&theme=gotham&count_private=true" /></picture>
+    </a>
+    <!-- <a href="https://github.com/Monde123?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=ishandutta2007&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="48%" alt="@Monde123's github-readme-stats"/></a> -->
+    <!-- <a href="https://github.com/Monde123?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=Monde123&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="48%" alt="@Monde123's github-readme-streak-stats" /></a> -->
+</p>
 ---
 
 ## 📫 Me contacter
